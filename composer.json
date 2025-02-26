@@ -1,0 +1,9 @@
+{
+    "name": "unflores/di_example",
+    "description": "Example of dependency injection",
+    "type": "project",
+    "require": {
+        "ext-gd": "*",
+        "phpoffice/phpspreadsheet": "^4.0"
+    }
+}
